@@ -1,8 +1,6 @@
-# Data-Analytics-Automation-Pipeline
-
 # 📊 Data Analytics & Automation Pipeline
 
-## 📌 Présentation du projet
+##  Présentation du projet
 
 Ce projet présente un pipeline complet d’analyse de données, allant de la préparation des données jusqu’à l’automatisation du reporting.
 
@@ -14,7 +12,7 @@ Le projet couvre les différentes étapes d’un processus Data Analyst / Busine
 
 ---
 
-# 🛠️ Technologies utilisées
+#  Technologies utilisées
 
 * **SQL** : nettoyage, transformation et analyse des données
 * **Power BI** : création du modèle de données, mesures DAX et visualisations
@@ -25,7 +23,7 @@ Le projet couvre les différentes étapes d’un processus Data Analyst / Busine
 
 ---
 
-# 📂 Structure du projet
+#  Structure du projet
 
 ```
 Data-Analytics-Automation-Pipeline/
@@ -54,7 +52,7 @@ Data-Analytics-Automation-Pipeline/
 
 ---
 
-# 📊 Jeu de données
+#  Jeu de données
 
 Le projet utilise le dataset **Superstore Sales** contenant des informations commerciales :
 
@@ -70,7 +68,7 @@ Ces données permettent d’analyser la performance commerciale et d’identifie
 
 ---
 
-# 🧹 Analyse SQL
+#  Analyse SQL
 
 La partie SQL permet de préparer et analyser les données avant la visualisation.
 
@@ -93,7 +91,7 @@ Exemples d’indicateurs calculés :
 
 ---
 
-# 📈 Dashboard Power BI
+#  Dashboard Power BI
 
 Un dashboard interactif a été créé afin de suivre les performances commerciales.
 
@@ -120,7 +118,7 @@ Les analyses comprennent notamment :
 
 ---
 
-# ⚙️ Automatisation Power Automate
+#  Automatisation Power Automate
 
 Une automatisation a été développée afin de générer automatiquement un reporting basé sur les données Power BI.
 
@@ -149,7 +147,7 @@ Cette automatisation permet de transformer un dashboard analytique en véritable
 
 ---
 
-# 💡 Insights business
+#  Insights business
 
 L’analyse permet notamment d’identifier :
 
@@ -162,7 +160,7 @@ Ces informations peuvent aider à améliorer la prise de décision commerciale.
 
 ---
 
-# 🎯 Objectifs du projet
+#  Objectifs du projet
 
 Ce projet a permis de développer des compétences en :
 
